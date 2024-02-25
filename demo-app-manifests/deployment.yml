@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: bhavyabojanapalli/demo-cicd:19
+        image: bhavyabojanapalli/demo-cicd:21
         ports:
         - containerPort: 8080
